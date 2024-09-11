@@ -38,7 +38,7 @@ state = game.get_game_state()
 - Run the Game: You can instantiate the ChessVar class and start making moves as shown in the example usage.
   
 ### Project Status
-This project is currently complete, with potential for future enhancements, such as adding a graphical user interface or extending the rule set. (EDIT)
+This project is currently complete, with potential for future enhancements, such as adding a graphical user interface or extending the rule set. Additionally, this program has not yet been evaluated for time or space complexity; better efficiency is likely possible. Future work can be done in improving this efficiency. 
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more information.
